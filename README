@@ -1,0 +1,6 @@
+starting crawler:
+under the project directory, use shell script
+>sh Run.sh
+
+the output is stored into temp directory.
+WARNING:  you should not directly use python Main.py under myCrawler directory, since it will save outputs into the temp directory under myCrawler.   
